@@ -1,4 +1,5 @@
 <?php
+require 'scraperwiki.php';
 require 'scraperwiki/simple_html_dom.php';
 $council = "Clare County Council";
 $uri = "http://www.clarecoco.ie/your-council/contact-the-council/councillors/";
