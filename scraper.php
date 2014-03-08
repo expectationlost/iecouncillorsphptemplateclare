@@ -130,5 +130,5 @@ function uchiberno($str)
 }
 
 
-scraperwiki::sqlitecommit();
+#scraperwiki::sqlitecommit();
 ?>
